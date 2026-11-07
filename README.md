@@ -16,7 +16,8 @@ The English translation is 100% complete. The game was played through fully with
 
 - Your own copy of the Japanese *NOON* disc, Revision A. Its Track 01 file must be named exactly `Noon (Japan) (Rev A) (Track 01).bin`, be 15,422,064 bytes, and have the SHA-256 `acc0ae109df50fe4d0cc8da6d1857e8e175763d68576a5239240f554a436ec8a`.
 - xdelta 3. Version 3.1.0 is the one tested.
-- The patch file `noon_en_track01.xdelta` (100,503 bytes, SHA-256 `81f19b3600b9adb5cba3cc71e503f731de206ee021329e6d1fa3098827f0e5e9`).
+- The patch file `noon_en_v1.1_track01.xdelta` (166,019 bytes, SHA-256:
+    `d2b2b364b0ffbda1523e8f380b48170a818a2ad06082a229558966e06f19971e`).
 
 ## Applying the patch
 
@@ -39,7 +40,7 @@ If your Track 01 is not the exact file described above, xdelta refuses to apply 
 The patched Track 01 should be 15,422,064 bytes with the SHA-256:
 
 ```
-5f84e527a30cdae0bf6d107701c2485b8518307c8c7993e9c35e86b213cd41f9
+94b76e768be2d94318130fa62e78a9796e3cfd6d23f91d535a552175d2283b47
 ```
 
 On Windows you can check it with:
