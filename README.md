@@ -83,6 +83,6 @@ The translation was AI-assisted. Every line was then read by hand by me for qual
 
 For mistranslations, bugs or suggestions, please open an issue on this repository.
 
-## Licence
+## License
 
-The files in this repository are under the MIT Licence (see [LICENSE](LICENSE)). That licence gives no rights in *NOON*. The game belongs to Microcabin and its authors.
+The files in this repository are under the MIT License (see [LICENSE](LICENSE)). That license gives no rights in *NOON*. The game belongs to Microcabin and its authors.
